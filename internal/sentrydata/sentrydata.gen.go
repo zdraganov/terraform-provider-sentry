@@ -325,6 +325,7 @@ var Platforms = []string{
 	"node-koa",
 	"node-mastra",
 	"node-nestjs",
+	"node-pi-durable",
 	"php",
 	"php-laravel",
 	"php-symfony",
